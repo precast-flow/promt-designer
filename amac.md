@@ -8,6 +8,8 @@ Bu depo, **beton prefabrik süreç yönetimi** için tasarlanan bir **ERP + MES 
 
 Ayrıca bu proje, **UI prototip ve wireframe üretimi için prompt paketleri** içerir (`docs/10-ui-prototype/`, `11-ui-mvp-prototype/`, üretim/kalite/firma admin/planlama/birim iş emri vb. adımlar). Bu promptlar harici veya ayrı bir frontend kod tabanında kullanılmak üzere yazılır; bu repodaki odak **ürün tanımı ve prompt tasarımıdır**, çalışan uygulama kodu değildir.
 
+**Mühendislik altı örnek (Okan):** `Manual Piece & Template Studio-okan` (**MPTS-okan**) — katalog (material items/assemblies) → piece mark şablonları → işe bağlı üretim parçası; tam UI–IA spesifikasyonu `docs/11-ui-mvp-prototype/okan/manual-piece-template-studio-okan.md`, giriş noktası `docs/MPTS-okan-ui-ia.md`.
+
 ---
 
 # Neyi amaçlıyoruz?
